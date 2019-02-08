@@ -52,7 +52,10 @@ fBodyBodyGyroJerkMag-std
 
 
 | Variable | Name	Description |	Unit |
+| --- | --- | ---|
 | SubjectID	| Subject’s ID number | N/A |
+
+
 Activity	Name of the activity	N/A
 tGravityAccMag-mean	Mean of the magnitude of the gravitational acceleration for the domain of time.	gravity (g)
 tBodyAccJerkMag-mean	Mean of the magnitude of the rate of change of linear body acceleration for the domain of time.	gravity per second (g/s)
