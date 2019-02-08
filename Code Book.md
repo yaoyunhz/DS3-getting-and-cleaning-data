@@ -1,4 +1,4 @@
-Code Book for "tidy data.txt"
+ #### Code Book for "tidy data.txt"
 
 Identifiers:
 
@@ -28,6 +28,7 @@ fBodyBodyAccJerkMag-mean
 fBodyBodyGyroMag-mean
 
 fBodyBodyGyroJerkMag-mean
+
 
 (2) standard deviations:
 
