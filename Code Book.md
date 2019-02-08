@@ -1,4 +1,4 @@
- #### Code Book for "tidy data.txt"
+ # Code Book for "tidy data.txt"
 
 ## Identifiers:
 
@@ -10,7 +10,7 @@
 
 ## Measurements:
 
-# (1) means:
+### (1) means:
 tBodyAccMag-mean
 
 tGravityAccMag-mean
@@ -30,7 +30,7 @@ fBodyBodyGyroMag-mean
 fBodyBodyGyroJerkMag-mean
 
 
-# (2) standard deviations:
+### (2) standard deviations:
 
 tBodyAccMag-std
 
