@@ -54,12 +54,10 @@ fBodyBodyGyroJerkMag-std
 | Variable | Name	Description |	Unit |
 | --- | --- | ---|
 | SubjectID	| Subject’s ID number | N/A |
-
-
-Activity	Name of the activity	N/A
-tGravityAccMag-mean	Mean of the magnitude of the gravitational acceleration for the domain of time.	gravity (g)
-tBodyAccJerkMag-mean	Mean of the magnitude of the rate of change of linear body acceleration for the domain of time.	gravity per second (g/s)
-tBodyGyroMag-mean	Mean of the magnitude of the angular velocity for the domain of time.	radians per second (r/s)
+| Activity	| Name of the activity	| N/A |
+| tGravityAccMag-mean |	Mean of the magnitude of the gravitational acceleration for the domain of time. |	gravity (g) |
+|tBodyAccJerkMag-mean |	Mean of the magnitude of the rate of change of linear body acceleration for the domain of time. |	gravity per second (g/s) |
+| tBodyGyroMag-mean	| Mean of the magnitude of the angular velocity for the domain of time.	| radians per second (r/s) |
 tBodyGyroJerkMag-mean	Mean of the magnitude of the rate of change of angular velocity for the domain of time.	radians per second squared (r/s^2)
 fBodyAccMag-mean	Mean of the magnitude of the rate of change of angular velocity for the domain of time.	radians per second squared (r/s^2)
 fBodyBodyAccJerkMag-mean	Mean of the magnitude of the rate of change of angular velocity for the domain of time.	radians per second squared (r/s^2)
